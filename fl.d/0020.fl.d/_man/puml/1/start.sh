@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=${REPO_PATH}/NBash/_man/puml/1
+dir=~/edu_dta_002/fl.d/0020.fl.d/_man/puml/1/start.sh
 
 cd $dir
 
